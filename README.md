@@ -1,2 +1,2 @@
-# silver-umbrella
-Simple project I made during my college studies learning C#.
+# Simple console application about a grocery store
+Simple project I made during my college studies learning C#. It's a console application about a grocery store with the possibility of adding, removing products as the store owner. Customers have the possibility of adding the products to their shopping cart and paying for the products with their credit. Customers can see the receipt afterwards. It's possible to save the products to XML.
